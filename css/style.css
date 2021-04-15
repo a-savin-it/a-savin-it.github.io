@@ -549,6 +549,16 @@ img {
   text-decoration: none;
 }
 
+.advantages__aricle-header {
+  margin: 21px auto 10px;
+}
+
+.advantages__article-description {
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+
 .our-groups {
   margin-top: -5px;
   background-image: url("../img/background-our-groups-desktop.svg");
